@@ -1,0 +1,79 @@
+clear all;
+clc;
+v1=[];
+i=300;
+while i<302
+         a='E:\数学建模\数学建模优秀论文\cumcm2015b\深圳市出租车数据\track_exp\数据 (';
+         e='.txt';
+         f=')';
+         b=[a num2str(i) f e];
+         fid=fopen(b,'r');
+         var=fread(fid,'*char');
+         c=var';
+         var=native2unicode(var)';
+         var  
+         v1=[v1,var];
+         i=i+1;
+end
+le=length(e);
+i=1;
+j=0;
+b=[];
+c=[];
+d=[];
+f=[];
+g=[];
+h=[];
+k=[];
+while i<le
+    while (i-56*j)/7<=1
+        b=strcat(b,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/27<=1
+        c=strcat(c,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/38<=1
+        d=strcat(d,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/48<=1
+        f=strcat(f,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/50<=1
+        g=strcat(g,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/53<=1
+        h=strcat(h,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    while (i-56*j)/55<=1
+        k=strcat(k,e(i));
+        i=i+1;
+    end
+    i=i+1;
+    y{j+1,1}=b;
+    y{j+1,2}=c;
+    y{j+1,3}=d;
+    y{j+1,4}=f;
+    y{j+1,5}=g;
+    y{j+1,6}=h;
+    y{j+1,7}=k;
+    b=[];
+    c=[];
+    d=[];
+    f=[];
+    g=[];
+    h=[];
+    k=[];
+    j=j+1;
+end

@@ -3,7 +3,7 @@
 - Taking ShenZhen as a sample and crawling taxies driving information from ridesharing websites. In addition, define supply and demand ratio of taxies, taxi ownership (ten thousands people), the ratio of unoccupied taxies as well to investigate the matching degree between taxi sources and public requirement in different time and geographical location.
 - Based on psycholological model and fuzzy mathematics, building membership function to reflect the relation between subsides and driver, passenger statisfaction. Furthermore, we also consider companies cost to adjust and optimize the subsidy aimed at rush hour and remote areas. Our subsidy scheme can balance the benefit of drivers, passengers and software companies well.
 
-**You can dowmload the complete report from [here](https://github.com/PrideLee/The-subsidy-scheme-of-DiDi/blob/master/%E5%9F%BA%E4%BA%8E%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91%2B%E2%80%9D%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6.pdf)**
+**You can dowmload the full report from [here](https://github.com/PrideLee/The-subsidy-scheme-of-DiDi/blob/master/%E5%9F%BA%E4%BA%8E%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91%2B%E2%80%9D%E7%9A%84%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6.pdf)**
 
 ## 摘要
 

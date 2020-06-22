@@ -16,5 +16,4 @@
 （3）构建评价补贴方案合理性模型。该模型主要由平台经营成本，用户满意度和吸引力三因素决定。用户满意度受到补贴金额影响，因为当补贴金额较高时，司机将会拒载沿边扬招乘客而使其满意度下降。利用非线性规划求解模型，得到最优补贴结果。对于偏远地区、拥堵路段的打车难问题，本文还考虑在原有模型基础上进行扩展以权衡司机、平台以及用户三方利益。
  
 
-
 <div align=center><img width="500" height="500" src="https://github.com/PrideLee/The-subsidy-scheme-of-DiDi/blob/master/taxi_distribution.png"/></div>
